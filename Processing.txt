@@ -1,0 +1,7 @@
+Processing steps:
+
+1.Main structure of the app is the data.
+
+2.So databases will be built with different ayurvedic and pharmaceutical medicines.
+
+3.suggestive medicines will be accessed from databases based on combination of symtoms chosen by user.
