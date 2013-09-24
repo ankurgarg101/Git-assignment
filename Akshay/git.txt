@@ -1,0 +1,16 @@
+GIT COMMANDS 
+
+1. git init
+-to initialise a repository
+
+2. git clone
+-to copy the source of an existing project into working directory
+
+3. git status
+-shows the current status of tracked files , untracked files etc.
+ 
+4. git add
+-adds a file to the staging area
+
+5. git commit
+-to commit the files present in the staging area
