@@ -1,3 +1,0 @@
-My next project is Runner android app using GPS for ifest/MAD.
--Project started 
--Need 3-4 days
