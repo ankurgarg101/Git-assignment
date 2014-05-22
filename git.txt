@@ -1,0 +1,22 @@
+Git Commands:
+
+1.git config --global user.name 'name' :This command initiates configuration values for your name.
+
+2.git config --global user.email youremailid:This command initiates configuraton values for your email.
+
+3.git init: This command sets a directory as your local repository.
+
+4.git init myproject:Cretes a new directory and sets it as your local repository.
+
+5.git clone <url> :Copies all the files in remote repository to your workspace.
+
+6.git clone <url> myproject:Copies all the files in remote repository to your workspace with the directory name as mentioned.
+
+7.git status: Tells the status of your staging area compared to code in working directory.
+
+8.git add filename:Adds that file in the directory to staging area.
+
+9.git commit -m 'Commit Message':Commits or records the paticular code with a short commit message.
+
+10.git commit -a-m 'Commit Message':Same as above except that it directly adds the file modified to staging area.
+

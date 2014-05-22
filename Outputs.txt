@@ -1,0 +1,7 @@
+Outputs:
+
+1.The appropriate medicine based on type chosen by user.
+
+2.Some methods to prepare ayurvedic medicines in home.
+
+3.Some food and work advices

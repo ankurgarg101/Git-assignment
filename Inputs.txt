@@ -1,0 +1,6 @@
+Inputs:
+
+1.Symtoms of a person who chooses them from different drop down boxes available
+
+2.Ayurvedic or Pharmaceutical medicine.
+
